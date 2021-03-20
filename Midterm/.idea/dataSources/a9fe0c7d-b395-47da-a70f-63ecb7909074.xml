@@ -84,15 +84,15 @@
       <Owner>postgres</Owner>
       <IntrospectionStateNumber>2511</IntrospectionStateNumber>
       <Current>1</Current>
-      <Relations>sequence|table|74882|74884|1
+      <Relations>sequence|table|74947|74949|1
+sequence|table|74939|74941|1
+sequence|table|75007|75009|1
+sequence|table|74882|74884|1
 sequence|table|74893|74895|1
 sequence|table|74903|74905|1
 sequence|table|74911|74913|1
 sequence|table|74921|74923|1
 sequence|table|74929|74931|1
-sequence|table|74939|74941|1
-sequence|table|74947|74949|1
-sequence|table|75007|75009|1
 </Relations>
     </database>
     <database id="21" parent="1" name="postgres">
